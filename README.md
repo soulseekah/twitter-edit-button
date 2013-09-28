@@ -2,7 +2,7 @@ Have you ever tweeted something out only to find it has a typo? I have. And then
 
 Uhm, yes, let's go ahead and have that "Edit" button next to our tweets, that would be great.
 
-![Twitter Edit Button](https://github.com/soulseekah/tweet-edit-button/raw/master/screenshot.png)
+![Twitter Edit Button](https://github.com/soulseekah/twitter-edit-button/raw/master/screenshot.png)
 
 This repository contains browser extentions that add an "Edit" button to your tweets for super-quick and easy tweet edits. Hurry up before those retweets and favorites start!
 
