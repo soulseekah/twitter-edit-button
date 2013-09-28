@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "Twitter Edit Button",
+	"description": "Add an 'edit' button to your tweets for some quick edit action.",
+	"version": "0.1",
+
+	"content_scripts": [
+		{
+			"matches": [ "https://twitter.com/" ],
+			"js": [ "jquery.js", "edit.js" ]
+		}
+	]
+}
